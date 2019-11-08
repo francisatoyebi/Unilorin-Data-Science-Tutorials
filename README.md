@@ -1,6 +1,6 @@
-# Classification-Tutorials
+# Unilorin Data Science Tutorials
 
-This is simply a basic tutorial on Building various classification model and tuning hyperparameters and performing a grid search or 
+This is simply a basic tutorial on cleaning and visualizing data, building various classification model, tuning hyperparameters and performing a grid search or 
 randomized search.
 
 
